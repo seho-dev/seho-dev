@@ -9,4 +9,6 @@ I am a developer from China, with a strong interest in many fields, usually like
 - 💬 Ask me about anything [here](https://github.com/seho-dev/seho-dev/issues)
 - 🌟 Welcome to my website: [yinzhuoei.com](https://yinzhuoei.com/)
 
-I often use Typescript, Rust,Go,Vue,React,Nuxt,Sword.js
+I often use:
+
+`Typescript`,`Rust`,`Go`,`Vue`,`React`,`Nuxt`,`Sword.js`
