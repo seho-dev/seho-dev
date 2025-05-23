@@ -28,6 +28,9 @@ Less         30 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [吉隆坡-兰卡威之行简版攻略](https://www.yinzhuoei.com/index.php/archives/830/)
+- [2024年终总结](https://www.yinzhuoei.com/index.php/archives/829/)
+- [一个关于GUI面板软件的想法](https://www.yinzhuoei.com/index.php/archives/824/)
 - [时间紧迫，我们快速过一下最新的Vue3.3](https://www.yinzhuoei.com/index.php/archives/818/)
 - [小聊一下Typescript 5.0-beta带来了什么](https://www.yinzhuoei.com/index.php/archives/813/)
 - [前端人需要掌握的HTTP知识](https://www.yinzhuoei.com/index.php/archives/803/)
@@ -35,9 +38,6 @@ Less         30 mins         ▒░░░░░░░░░░░░░░░░
 - [2022年终总结](https://www.yinzhuoei.com/index.php/archives/793/)
 - [程序语言理论与实现: 编译技术概论](https://www.yinzhuoei.com/index.php/archives/789/)
 - [在Next.js中打造一个Web IDE](https://www.yinzhuoei.com/index.php/archives/786/)
-- [简单聊聊Rust中的复合类型](https://www.yinzhuoei.com/index.php/archives/785/)
-- [SSR当代最强变种-island架构](https://www.yinzhuoei.com/index.php/archives/784/)
-- [简单聊聊Rust和JavaScript同时存在的精度问题](https://www.yinzhuoei.com/index.php/archives/776/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
