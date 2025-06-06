@@ -18,10 +18,10 @@ I often use:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   16 hrs 22 mins  █████████████████████████   99.95 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Less         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript    24 hrs 20 mins  █████████████████████████   99.48 %
+JSON          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+TypeScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
