@@ -18,7 +18,7 @@ I often use:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   20 hrs 10 mins  █████████████████████▓░░░   87.23 %
+JavaScript   20 hrs 10 mins  █████████████████████▓░░░   87.21 %
 Less         1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
 Markdown     57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
 JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
