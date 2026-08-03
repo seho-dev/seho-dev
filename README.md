@@ -18,7 +18,11 @@ I often use:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust         36 mins               ███████▓░░░░░░░░░░░░░░░░░   30.40 %
+TypeScript   32 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
+CSS          32 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
+Markdown     8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+Svelte       5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
