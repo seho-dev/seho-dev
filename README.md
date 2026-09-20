@@ -18,11 +18,11 @@ I often use:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 hrs 25 mins         █████████░░░░░░░░░░░░░░░░   35.57 %
-Svelte       4 hrs 27 mins         ██████░░░░░░░░░░░░░░░░░░░   24.64 %
-Other        1 hr 43 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-TypeScript   1 hr 29 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Markdown     1 hr 23 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+JavaScript   6 hrs 25 mins         █████████▒░░░░░░░░░░░░░░░   37.43 %
+Svelte       4 hrs 7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.06 %
+Other        1 hr 43 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Markdown     1 hr 23 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+TypeScript   1 hr 19 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
 ```
 
 <!--END_SECTION:waka-->
