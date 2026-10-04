@@ -18,9 +18,7 @@ I often use:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 10 mins         █████████████████████▒░░░   85.92 %
-JSON         21 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
